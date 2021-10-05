@@ -16,6 +16,3 @@ jobs:
         run: git fetch --prune --unshallow        
       - name: Run lint
         uses: helm/chart-testing-action@v2.1.0
-        with:
-          command: lint
-          config: .github/verify-config.yaml
