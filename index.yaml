@@ -3,6 +3,18 @@ entries:
   openhab:
   - apiVersion: v2
     appVersion: 3.0.0
+    created: "2023-01-18T15:25:11.232550972Z"
+    description: A Helm chart for OpenHAB on Kubernetes
+    digest: 9aff303fd8c4fa46a356c43777cb506952e26274c1e9db6bca6f76355d5f616d
+    maintainers:
+    - name: groundhog2k
+    name: openhab
+    type: application
+    urls:
+    - https://github.com/groundhog2k/experimental-charts/releases/download/openhab-0.1.1/openhab-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 3.0.0
     created: "2021-10-05T19:32:55.970512931Z"
     description: A Helm chart for OpenHAB on Kubernetes
     digest: 99a302671578ceeef2cbb79fb06f8a12da1407b0b7c4b659ee3d3acc91a8b90a
@@ -13,4 +25,4 @@ entries:
     urls:
     - https://github.com/groundhog2k/experimental-charts/releases/download/openhab-0.1.0/openhab-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-05T19:32:55.970517931Z"
+generated: "2023-01-18T15:25:11.232560072Z"
